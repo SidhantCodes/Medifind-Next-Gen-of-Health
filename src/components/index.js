@@ -8,7 +8,7 @@ import About from './About'
 // import CTA from './CTA'
 // import Footer from './Footer'
 import Stats from './Stats'
-// import Testimonial from './Testimonials'
+import Testimonial from './Testimonials'
 // import Button from './Button'
 // import FeedbackCard from './FeedbackCard'
 // import GetStarted from './GetStarted'
@@ -23,8 +23,8 @@ export {
   // CTA,
   // Footer,
   Stats,
-  About
-  // Testimonial,
+  About,
+  Testimonial
   // Button,
   // FeedbackCard,
   // GetStarted  
