@@ -56,7 +56,7 @@ const Testimonials = () => {
   return (
     <section id='testimonials' className={`items-center`}>
       <div className={`mb-3 mt-6`}>
-        <h3 className="flex-1 font-poppins font-semibold ss:text-[40px] text-[30px] text-[#1B8FA1] ss:leading-[100.8px] leading-[75px]">What people are saying about us</h3>
+        <h3 className="flex-1 font-poppins font-semibold  text-[28px] ss:text-[40px] text-[#1B8FA1] ss:leading-[100.8px] leading-[75px]">What people are saying about us</h3>
       </div>
       <div className={`flex flex-col space-y-1 md:flex-row justify-around items-center`}>
         
