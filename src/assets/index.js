@@ -27,8 +27,10 @@ import people03 from "./people03.png";
 import health from "./health.png";
 import medicine from "./medicines.png";
 import star from "./star.png";
+import getstarted from "./getstarted.png";
 
 export {
+  getstarted,
   medicine,
   health,
   airbnb,
