@@ -1,6 +1,5 @@
 import React from 'react'
-import styles from '../style'
-import { arrowUp, getstarted } from '../assets'
+import { getstarted } from '../assets'
 const GetStarted = () => {
   return (
     <div>
