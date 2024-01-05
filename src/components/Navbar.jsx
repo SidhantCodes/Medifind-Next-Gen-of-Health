@@ -37,8 +37,8 @@ const Navbar = () => {
               <li
                 key={nav.id}
                 className={`font-poppins font-normal cursor-pointer text-[16px] px-3 py-1 ${
-                  active === nav.title ? "text-black" : "text-[#2f2f2f]"
-                } hover:text-1B8FA1 ${index === navlinks.length - 1 ? "mb-0" : "mb-3"}`}
+                  active === nav.title ? "text-black font-medium" : "text-[#2f2f2f]"
+                } hover:text-[#1B8FA1] ${index === navlinks.length - 1 ? "mb-0" : "mb-3"}`}
                 onClick={() => {
                   setActive(nav.title);
                 }}
